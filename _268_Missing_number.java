@@ -1,7 +1,5 @@
 
 
-import java.util.Arrays;
-
 public class _268_Missing_number {
     public static void main(String[] args) {
         int[] arr = {1,2,3};
