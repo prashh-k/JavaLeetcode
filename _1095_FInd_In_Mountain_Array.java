@@ -1,4 +1,3 @@
-package Lectures.Lec_8_BS_Questions;
 
 public class _1095_FInd_In_Mountain_Array {
     public static void main(String[] args) {

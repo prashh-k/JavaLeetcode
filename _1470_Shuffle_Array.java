@@ -1,4 +1,3 @@
-package Assignments.Lec_4_Array_ArrayList;
 
 import java.util.Arrays;
 

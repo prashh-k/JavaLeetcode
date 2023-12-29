@@ -1,4 +1,3 @@
-package Lectures.Lec_8_BS_Questions;
 
 public class _162_Find_Peak_Element {
     public static void main(String[] args) {

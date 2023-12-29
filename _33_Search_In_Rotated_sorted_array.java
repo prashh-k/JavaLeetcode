@@ -1,4 +1,3 @@
-package Lectures.Lec_8_BS_Questions;
 
 public class _33_Search_In_Rotated_sorted_array {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Lectures.Lec_8_BS_Questions;
 
 public class _852_Peak_index_mountain {
     public static void main(String[] args) {

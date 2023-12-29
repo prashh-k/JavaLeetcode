@@ -1,4 +1,3 @@
-package Assignments.Lec_4_Array_ArrayList;
 
 public class _1295_Numbers_with_even_number_digit {
     class Solution {

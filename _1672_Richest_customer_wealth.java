@@ -1,4 +1,3 @@
-package Assignments.Lec_4_Array_ArrayList;
 
 public class _1672_Richest_customer_wealth {
     public static void main(String[] args) {

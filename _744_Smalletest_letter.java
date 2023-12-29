@@ -1,4 +1,3 @@
-package Lectures.Lec_8_BS_Questions;
 
 public class _744_Smalletest_letter {
     public static void main(String[] args) {
